@@ -8,7 +8,7 @@ Input file format:
 2013-03-20 C 24
 
 """
-
+"this is just open the file"
 import fileinput
 
 def get_raw_data():
