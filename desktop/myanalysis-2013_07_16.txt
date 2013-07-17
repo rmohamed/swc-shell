@@ -1,0 +1,73 @@
+    1  pwd
+    2  ls
+    3  ls-F
+    4  ls -F
+    5  cd /home/ruba
+    6  cd 
+    7  cd/ home
+    8  cd / desktop
+    9  notepad.exe mydata.txt
+   10  ls
+   11  mkdir swc
+   12  ls
+   13  cp try.txt try_copy.txt
+   14  desktop
+   15  cd /desktop
+   16  cd / desktop
+   17  ls
+   18  cp try.txt try_copy.txt
+   19   try.txt try_copy.txt
+   20  mkdir backup
+   21  ls
+   22  cd swc
+   23  notepad.exe mydata.txt
+   24  ls
+   25  ls
+   26  cd  ~
+   27  ls
+   28  cd ..
+   29  ls
+   30  cd Ruba/
+   31  ls
+   32  ls
+   33  pwd
+   34  ls
+   35  cd../
+   36  ls
+   37  cd../../
+   38  ls
+   39  cd ~
+   40  ls
+   41  cd Desktop/
+   42  ls
+   43  ls *.txt
+   44  vi try.txt
+   45  mkdir backup 
+   46  mv try.txt 
+   47  'mv --help'
+   48  mv --help
+   49  mv try.txt packup
+   50  cd packup
+   51  mv try.txt backup
+   52  sort try.txt
+   53  sort -k 3 data_littlebearriver_2013.txt
+   54  ls
+   55  ls -lt *.txt
+   56  ls
+   57  ls *.txt
+   58  sort -k 3 data_littlebearriver_2013.txt
+   59* 
+   60  sort -k 3 data_littlebearriver_2013.txt > sorted_rates.txt
+   61  ls *.txt
+   62  vi sorted_rates.txt 
+   63  vi sorted_rates.txt 
+   64  tail -1 sorted_rates.txt 
+   65  head -1 sorted_rates.txt 
+   66  sort -k 3 data_littlebearriver_2013.txt > sorted_rates.txt | head -1
+   67  sort -k 3 data_littlebearriver_2013.txt | head -1
+   68  ls
+   69  ls *.txt
+   70  python avg_discharge_rate.py data_littlebearriver_2013.txt
+   71  python avg_discharge_rate.py data_littlebearriver_2013.txt
+   72  python avg_discharge_rate.py data_littlebearriver_2013.txt |sort -k 2 -n | tail -1
+   73  history > myanalysis-2013_07_16.txt
